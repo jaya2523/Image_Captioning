@@ -1,16 +1,7 @@
-# flutter_application_2
+<h1>Please Find Attached the Video Link for Assigment 1 </h1>
+● To Create an AI tool that creates captions based on the image provided by the user. Should also have
+the option to generate multiple captions based on the image.<br>
+● Provide an interface where the user can come and upload images and get AI generated captions. ●
+You are to free use the library of your choice.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/jaya2523/Image_Captioning/assets/93309776/97ca6a0b-fb24-4e5e-bf8a-c29a4a90506f
